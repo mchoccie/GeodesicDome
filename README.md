@@ -1,4 +1,4 @@
-## CP38 - Development of Python Library for the Geodesic Dome
+## Development of Python Library for the Geodesic Dome
 This project aims to complete a python library implementing 3 key features
 related to the Geodesic Dome:
 
