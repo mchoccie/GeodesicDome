@@ -12,4 +12,4 @@ We aim to implement these three features correctly while also trying to make the
 code performant both in terms of time and memory.
 
 ## Overview
-I completed this project with 5 other team members as a part of a university capstone project. We had a chance to explore the Python library Numba used to optimize Python code. The library and docs can be found at this link: https://pypi.org/project/geodome/
+I completed this project with 5 other team members as a part of a university capstone project. We had a chance to explore the Python library Numba used to optimize Python code. The library and docs can be found at this link: https://pypi.org/project/geodome/. The most challenging part of this assignment was understanding how to present arrays in ways that were compliant with Numba. During the development process we ran into many issues with array manipulation. 
